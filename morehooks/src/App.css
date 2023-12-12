@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+}
+li{
+  background-color: bisque;
+  list-style-type: none;
+  padding: 20px;
+  margin: 10px;
+}
+.toggle{
+  margin-left: 40px;
+}
